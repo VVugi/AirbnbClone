@@ -1,5 +1,5 @@
 # AirbnbClone
 
-My second React project following Scrimba's course.
+My second React app following Scrimba's course.
 
 https://wugi-airbnbclone.netlify.app/
